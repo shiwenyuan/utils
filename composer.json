@@ -1,0 +1,13 @@
+{
+  "name": "shiwenyuan/utils",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin shiwenyuan/utils",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Shiwenyuan\\Utils\\": "src"
+    }
+  }
+}
